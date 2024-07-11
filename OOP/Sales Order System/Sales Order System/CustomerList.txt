@@ -1,0 +1,4 @@
+1 01012345678|Sherif|Sharqia|Person
+2 01033333333|Mahmoud|AwladSaqr|Person
+3 01237859634|Rako|Cairo|Companey
+4 01236547895|Ahmed|Cairo|Person

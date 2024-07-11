@@ -1,0 +1,11 @@
+Order Number: 5390		Order Time: 12:00:50    Jun 12 2022
+Id: 1	Product Name: sting	Price: 6.600000	Qauntity: 7.000000
+Customer Info: 
+ 1	01012345678	Sherif	     Sharqia		Person
+=========================================================================================
+Order Number: 4515		Order Time: 09:52:31    Jun 15 2022
+Id: 1	Product Name: sting	Price: 6.600000	Qauntity: 5.000000
+Id: 2	Product Name: dddd	Price: 18.700000	Qauntity: 7.000000
+Customer Info: 
+ 4	01236547895	Ahmed	     Cairo		Person
+=========================================================================================

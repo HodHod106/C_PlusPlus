@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\DELL\Desktop\OOP2\OOP2\test\Source.cpp(28): warning C4715: 'remain': not all control paths return a value
+  test.vcxproj -> C:\Users\DELL\Desktop\OOP2\OOP2\x64\Debug\test.exe

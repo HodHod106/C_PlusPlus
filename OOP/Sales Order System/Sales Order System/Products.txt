@@ -1,0 +1,13 @@
+
+1 cocacola|156963572486|Drink|7
+2 pepsi|14753698423|Drink|7
+3 shwips|123698745|Drink|8
+4 sting|951236842|Drink|6
+5 Peti Trubikana|79461325863214|Drink|5
+6 fghjkl|5412|ghjkl|14
+7 dddd|384499562|9ddd|17
+8 sss|84523|dddd|17
+9 dddd|8745sd545sdsd|4eerer|19
+10 ffff|4444|hhhh|8
+11 RICE|15963287|Carb|6.5
+12 Pototo|123547897|Vegit|7.5

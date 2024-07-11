@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1654798047 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\cash.cpp
+	"Cash.h"
+
+1655021263 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\cash.h
+	"Payment.h"
+	<string>
+	<iostream>
+
+1655021045 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\payment.h
+	<string>
+	<Windows.h>
+
+1655027825 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\check.cpp
+	"Check.h"
+
+1655023777 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\check.h
+	<iostream>
+	<String>
+	"Payment.h"
+
+1654684574 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\companey.cpp
+	"Companey.h"
+	<iostream>
+
+1655029863 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\companey.h
+	<string>
+	"Customer.h"
+
+1655291992 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\customer.h
+	<string>
+	<iostream>
+
+1655022045 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\credit.cpp
+	"Credit.h"
+
+1655062890 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\credit.h
+	<iostream>
+	<String>
+	"Payment.h"
+
+1654684574 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\customer.cpp
+	"Customer.h"
+
+1655034153 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\customers.cpp
+	"Customers.h"
+
+1655293777 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\customers.h
+	"Customer.h"
+	"Person.h"
+	"Companey.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+
+1655029838 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\person.h
+	<string>
+	"Customer.h"
+
+1655323756 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\main.cpp
+	<iostream>
+	<string>
+	<Windows.h>
+	<fstream>
+	"Product.h"
+	"Stock.h"
+	"Customers.h"
+	"TransctionList.h"
+
+1654419649 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\product.h
+	<string>
+	<iostream>
+
+1655283083 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\stock.h
+	"Product.h"
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+
+1655020415 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\transctionlist.h
+	"Transction.h"
+	"Customers.h"
+	"Stock.h"
+
+1655062897 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\transction.h
+	<string>
+	"Order.h"
+
+1655323854 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\order.h
+	<string>
+	<cstdlib>
+	<ctime>
+	"Customers.h"
+	"Stock.h"
+	"OrderItem.h"
+	"Payment.h"
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+	<fstream>
+
+1655288987 c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\orderitem.h
+	"Product.h"
+	"Stock.h"
+
+1655307932 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\order.cpp
+	"Order.h"
+
+1655032597 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\orderitem.cpp
+	"OrderItem.h"
+
+1654762929 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\payment.cpp
+	"Payment.h"
+
+1654684567 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\person.cpp
+	"Person.h"
+	<iostream>
+
+1654780535 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\product.cpp
+	"Product.h"
+
+1655032663 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\stock.cpp
+	"Stock.h"
+
+1655062897 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\transction.cpp
+	"Transction.h"
+
+1655062897 source:c:\users\dell\desktop\proj3data\20912021100785\oop3\oop3\transctionlist.cpp
+	"TransctionList.h"
+
