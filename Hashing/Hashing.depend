@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1720223809 source:d:\cp\c++ basics\cpp_basics\hashing\main.cpp
+	<iostream>
+	<map>
+	<unordered_map>
+	<list>
+	<string>
+	<vector>
+	<algorithm>
+
